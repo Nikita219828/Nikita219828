@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikita sinha</h1>
 <h3 align="center">A 1st year B.tech student in Dronacharya college of engineering, Gurugram</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikita19828" alt="nikita19828" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikita219828" alt="nikita219828" /></a> </p>
 
 - 🌱 I’m currently learning **DSA in c**
 
@@ -25,8 +25,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikita19828&show_icons=true&locale=en&layout=compact" alt="nikita19828" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikita219828&show_icons=true&locale=en&layout=compact" alt="nikita219828" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikita19828&show_icons=true&locale=en" alt="nikita19828" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikita219828&show_icons=true&locale=en" alt="nikita219828" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikita19828&" alt="nikita19828" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikita219828&" alt="nikita219828" /></p>
